@@ -1,4 +1,4 @@
-# roman_numerals
+# Roman Numerals
 
 Roman to Decimal Converter
 This TypeScript project provides a simple utility function to convert Roman numerals to decimal numbers.
